@@ -6,7 +6,7 @@ const getData = async function () {
     // console.log(data);
     const userResults = data.results;
     console.log(userResults)
-    displayUsers(userResults);
+    // displayUsers(userResults);
 };
 
 const displayUsers = function (userResults) {
